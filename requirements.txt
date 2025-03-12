@@ -1,0 +1,5 @@
+gym
+swig
+gymnasium[box2d]
+numpy
+matplotlib
